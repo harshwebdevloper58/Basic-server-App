@@ -36,8 +36,8 @@ const otpverification = async (req, res) => {
                 service: 'gmail',
                 auth: {
                   
-                    user: 'shrivastavaharsh1910@gmail.com',
-                    pass: 'thlj tmhs yyvl utqb'
+                    user: 'Your Email', 
+                    pass: 'Your passkey'
                 }
             });
       
